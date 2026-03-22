@@ -1,168 +1,225 @@
-```{=html}
-<h1 align="center">
-```
-Hi 👋, I'm Prayag Bhawsar
-```{=html}
-</h1>
-```
-```{=html}
-<h3 align="center">
-```
-Senior Software Developer • Full-Stack • AI-Integrated Systems • Cloud
-Architecture
-```{=html}
-</h3>
-```
-```{=html}
+<!-- Animated Header -->
 <p align="center">
-```
-`<a href="mailto:prayagbhawsar35@gmail.com">`{=html}
-`<img src="https://img.shields.io/badge/Email-prayagbhawsar35%40gmail.com-red?style=for-the-badge&logo=gmail">`{=html}
-`</a>`{=html}
-`<a href="https://linkedin.com/in/prayag-bhawsar-b53a70178">`{=html}
-`<img src="https://img.shields.io/badge/LinkedIn-Prayag%20Bhawsar-blue?style=for-the-badge&logo=linkedin">`{=html}
-`</a>`{=html}
-```{=html}
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4f46e5,100:06b6d4&text=Prayag%20Bhawsar&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 </p>
-```
 
-------------------------------------------------------------------------
+<h1 align="center">Hi 👋 I'm Prayag Bhawsar</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+Developer;AI+Integrated+Systems+Engineer;Node.js+%7C+Next.js+%7C+React+Developer;Building+Scalable+Cloud+Applications"/>
+</p>
+
+---
 
 # 🚀 About Me
 
-Senior Full-Stack Developer with 3+ years of experience building
-enterprise applications across healthcare, e-commerce, and SaaS.
+💻 Senior Full Stack Developer with **3+ years of experience building enterprise software** across healthcare, SaaS, and e-commerce.
 
-I specialize in AI‑integrated platforms, scalable architectures, and
-modern web technologies. I actively integrate OpenAI, Claude AI, GitHub
-Copilot, and automation workflows to accelerate engineering productivity
-and product delivery.
+⚡ Passionate about **AI-powered development workflows**, scalable architectures, and building high-impact products.
 
--   🧠 AI‑augmented engineering workflows
--   ⚙️ Architecting scalable full‑stack systems
--   🚀 Owner of multiple production applications
--   👨‍💻 Mentoring developers & improving team velocity
+🧠 Regularly integrate:
 
-------------------------------------------------------------------------
+- OpenAI
+- Claude AI
+- GitHub Copilot
+- n8n AI automation
 
-# 💻 Tech Stack
+to **accelerate development and productivity**.
+
+---
+
+# 🛠 Tech Stack
 
 ### Frontend
 
-React • Next.js • Ionic • Vite • Tailwind CSS • MUI • Bootstrap •
-Storybook
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,bootstrap,vite"/>
+</p>
 
 ### Backend
 
-Node.js • Express.js • GraphQL • REST APIs • Socket.io
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql"/>
+</p>
 
 ### Databases
 
-PostgreSQL • MongoDB • Firebase • Redis • Algolia
-
-### AI / LLM Tools
-
-OpenAI API • Claude AI • Azure Speech-to-Text • GitHub Copilot • n8n •
-Prompt Engineering
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,redis"/>
+</p>
 
 ### Cloud & DevOps
 
-AWS (Amplify, Lambda) • Azure • Docker • Vercel • Git
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,vercel,git"/>
+</p>
 
-### Architecture
+### AI & Automation
 
-Micro-frontends • Mono-repo • API Design • System Design
+- OpenAI API  
+- Claude AI  
+- Azure Speech-to-Text  
+- GitHub Copilot  
+- n8n AI workflows  
+- Prompt Engineering  
 
-------------------------------------------------------------------------
+---
 
-# 📦 Featured Projects
+# 📊 Engineering Impact & Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=prayag89&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=prayag89&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prayag89&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# ⚡ Real-World Impact (From Production Work)
+
+🚀 **5+ Enterprise Applications** shipped as Project Owner  
+👨‍💻 **10+ Production Client Projects** delivered end-to-end  
+👥 Applications serving **1000+ active users**  
+⚡ **30–40% faster delivery** using AI-assisted workflows  
+🧠 Built **10+ AI automation pipelines (n8n + LLMs)**  
+📉 Reduced medical documentation time by **~70% (Medscribe)**  
+📦 Delivered **6+ features per sprint** in agile cycles  
+👨‍🏫 Mentored **3–4 developers**, improving team velocity  
+
+---
+
+# 🧠 Advanced Engineering Highlights
+
+🧩 Built **MCP Server (ChatGPT Tooling via JSON-RPC/HTTP)**  
+🤖 Developed **LLM-integrated platforms (Ebotify, Medscribe)**  
+⚙️ Designed **micro-frontend + mono-repo architectures**  
+☁️ Deployed apps on **AWS + Azure + Vercel (CI/CD pipelines)**  
+📊 Integrated **Power BI + D3.js dashboards in production systems**  
+🔍 Implemented **high-performance search (Algolia + GraphQL)**  
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prayag89&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🧠 Featured Projects
 
 ## 🩺 Medscribe
 
-AI medical transcription platform integrating GPT‑4 and Azure
-Speech‑to‑Text.
+AI medical transcription platform.
 
-Tech: Ionic • Node.js • OpenAI • Azure STT
+Tech  
+`Ionic` `Node.js` `OpenAI` `Azure STT`
 
-Impact: - \~70% reduction in clinical documentation time - Real‑time
-voice transcription - AI structured medical notes
+Impact
 
-------------------------------------------------------------------------
+• Reduced clinical documentation time **~70%**  
+• Real-time voice capture  
+• AI structured medical notes
 
-## 🤖 Ebotify --- LLM Chatbot Platform
+---
+
+## 🤖 Ebotify — LLM Chatbot Platform
 
 https://app.ebotify.com
 
-Next.js • React • Node.js • Express • OpenAI • Socket.io
+Tech
 
-Features: - Custom LLM integrations - Training on private data -
-Multi‑channel chat support
+`Next.js` `React` `Node.js` `OpenAI` `Socket.io`
 
-------------------------------------------------------------------------
+Features
 
-## 🏆 Bracket Blitz --- AI Tournament Platform
+• No-code chatbot builder  
+• Custom LLM integrations  
+• Train chatbots on private data
 
-Next.js • React • MCP • OpenAI Apps SDK • Tailwind • Vite
+---
 
-ChatGPT‑integrated tournament system with embedded widgets.
+## 🏆 Bracket Blitz
 
-------------------------------------------------------------------------
+AI tournament platform integrated with **ChatGPT widgets**.
 
-## 🌾 Kencove --- Agricultural E‑Commerce
+Tech
+
+`Next.js` `React` `MCP` `OpenAI Apps SDK`
+
+---
+
+## 🌾 Kencove
 
 https://kencove.com
 
-Next.js • GraphQL • MongoDB • Algolia • Saleor
+Agricultural e-commerce platform.
 
-Work: - Algolia search integration - GraphQL data layer - Authorize.net
-payments
+Tech
 
-------------------------------------------------------------------------
+`Next.js` `GraphQL` `MongoDB` `Algolia`
 
-## 🎨 Aeon --- Collaborative Canvas
+---
+
+## 🎨 Aeon
 
 https://aeon-art-project.web.app
 
-Vite • js-draw • Firebase • Node.js • Redis
+Real-time collaborative canvas.
 
-Features: - Infinite canvas - Live collaboration - Session scaling
+Tech
 
-------------------------------------------------------------------------
+`Vite` `Firebase` `Node.js` `Redis`
 
-## 💬 ChatPM --- Enterprise Chat PM Tool
+---
+
+## 💬 ChatPM
 
 https://portal.chatpmpro.com
 
-Next.js • React • Node.js • MUI • Power BI • D3.js
+Enterprise project management chat platform with **Power BI dashboards**.
 
-Features: - Microsoft Bot Framework - Task modules - Power BI dashboards
+Tech
 
-------------------------------------------------------------------------
+`Next.js` `Node.js` `Power BI` `D3.js`
 
-# 🏆 Key Achievements
+---
 
--   🚀 5+ enterprise applications shipped as sole owner
--   ⚡ 30--40% faster development cycles using AI tooling
--   🧠 10+ AI workflows automated with n8n
--   👥 Managed teams of up to 4 developers
--   📦 Delivered 10+ client projects
--   📈 Built systems serving 1000+ users
+# 🏆 Achievements
 
-------------------------------------------------------------------------
+🚀 5+ enterprise applications shipped  
+⚡ 30–40% faster delivery using AI tools  
+🧠 10+ AI automation workflows built  
+👨‍💻 Managed teams of up to 4 developers  
+📦 Delivered 10+ production client projects  
 
-# 🎓 Education
+---
 
-Bachelor of Computer Applications\
-Vikram University, Indore\
-2019 -- 2022
+# 🌐 Connect With Me
 
-------------------------------------------------------------------------
-
-```{=html}
 <p align="center">
-```
-⭐ Building intelligent systems powered by AI, scalable architecture,
-and modern web technologies.
-```{=html}
+
+<a href="mailto:prayagbhawsar35@gmail.com">
+<img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/prayag-bhawsar-b53a70178">
+<img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </p>
-```
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06b6d4,100:4f46e5"/>
+</p>
