@@ -1,47 +1,168 @@
-# Prayag Bhawsar
+```{=html}
+<h1 align="center">
+```
+Hi 👋, I'm Prayag Bhawsar
+```{=html}
+</h1>
+```
+```{=html}
+<h3 align="center">
+```
+Senior Software Developer • Full-Stack • AI-Integrated Systems • Cloud
+Architecture
+```{=html}
+</h3>
+```
+```{=html}
+<p align="center">
+```
+`<a href="mailto:prayagbhawsar35@gmail.com">`{=html}
+`<img src="https://img.shields.io/badge/Email-prayagbhawsar35%40gmail.com-red?style=for-the-badge&logo=gmail">`{=html}
+`</a>`{=html}
+`<a href="https://linkedin.com/in/prayag-bhawsar-b53a70178">`{=html}
+`<img src="https://img.shields.io/badge/LinkedIn-Prayag%20Bhawsar-blue?style=for-the-badge&logo=linkedin">`{=html}
+`</a>`{=html}
+```{=html}
+</p>
+```
 
-## Senior Software Developer
+------------------------------------------------------------------------
 
-Specializing in full-stack development, AI-integrated systems, and cloud architecture.
+# 🚀 About Me
 
----
+Senior Full-Stack Developer with 3+ years of experience building
+enterprise applications across healthcare, e-commerce, and SaaS.
 
-## Experience
+I specialize in AI‑integrated platforms, scalable architectures, and
+modern web technologies. I actively integrate OpenAI, Claude AI, GitHub
+Copilot, and automation workflows to accelerate engineering productivity
+and product delivery.
 
-- **Senior Software Developer** at XYZ Corp (2020 - Present)
-  - Developed and maintained full-stack applications.
-  - Integrated AI systems to improve efficiency by 30%.
-  - Led a team of 5 developers to deliver projects on time.
+-   🧠 AI‑augmented engineering workflows
+-   ⚙️ Architecting scalable full‑stack systems
+-   🚀 Owner of multiple production applications
+-   👨‍💻 Mentoring developers & improving team velocity
 
-- **Software Developer** at ABC Ltd (2017 - 2020)
-  - Worked on various cloud architecture solutions.
-  - Collaborated with cross-functional teams to define, design, and ship new features.
+------------------------------------------------------------------------
 
----
+# 💻 Tech Stack
 
-## Projects
+### Frontend
 
-- **Project 1:** AI Chatbot System
-  - Developed an AI-integrated chatbot that reduced customer service response time by 50%.
+React • Next.js • Ionic • Vite • Tailwind CSS • MUI • Bootstrap •
+Storybook
 
-- **Project 2:** E-commerce Platform
-  - Built a scalable e-commerce application with a user-friendly interface and cloud-based architecture.
+### Backend
 
----
+Node.js • Express.js • GraphQL • REST APIs • Socket.io
 
-## Skills
+### Databases
 
-- Full-Stack Development: HTML, CSS, JavaScript, React, Node.js
-- AI Systems Integration: Python, TensorFlow
-- Cloud Architecture: AWS, Azure
-- Database Management: MySQL, MongoDB
+PostgreSQL • MongoDB • Firebase • Redis • Algolia
 
----
+### AI / LLM Tools
 
-## Contact Information
+OpenAI API • Claude AI • Azure Speech-to-Text • GitHub Copilot • n8n •
+Prompt Engineering
 
-- **Email:** prayag.example@example.com  
-- **LinkedIn:** [Prayag Bhawsar LinkedIn](https://www.linkedin.com/in/prayag-bhawsar)  
-- **GitHub:** [Prayag89 GitHub](https://github.com/Prayag89)  
+### Cloud & DevOps
 
----
+AWS (Amplify, Lambda) • Azure • Docker • Vercel • Git
+
+### Architecture
+
+Micro-frontends • Mono-repo • API Design • System Design
+
+------------------------------------------------------------------------
+
+# 📦 Featured Projects
+
+## 🩺 Medscribe
+
+AI medical transcription platform integrating GPT‑4 and Azure
+Speech‑to‑Text.
+
+Tech: Ionic • Node.js • OpenAI • Azure STT
+
+Impact: - \~70% reduction in clinical documentation time - Real‑time
+voice transcription - AI structured medical notes
+
+------------------------------------------------------------------------
+
+## 🤖 Ebotify --- LLM Chatbot Platform
+
+https://app.ebotify.com
+
+Next.js • React • Node.js • Express • OpenAI • Socket.io
+
+Features: - Custom LLM integrations - Training on private data -
+Multi‑channel chat support
+
+------------------------------------------------------------------------
+
+## 🏆 Bracket Blitz --- AI Tournament Platform
+
+Next.js • React • MCP • OpenAI Apps SDK • Tailwind • Vite
+
+ChatGPT‑integrated tournament system with embedded widgets.
+
+------------------------------------------------------------------------
+
+## 🌾 Kencove --- Agricultural E‑Commerce
+
+https://kencove.com
+
+Next.js • GraphQL • MongoDB • Algolia • Saleor
+
+Work: - Algolia search integration - GraphQL data layer - Authorize.net
+payments
+
+------------------------------------------------------------------------
+
+## 🎨 Aeon --- Collaborative Canvas
+
+https://aeon-art-project.web.app
+
+Vite • js-draw • Firebase • Node.js • Redis
+
+Features: - Infinite canvas - Live collaboration - Session scaling
+
+------------------------------------------------------------------------
+
+## 💬 ChatPM --- Enterprise Chat PM Tool
+
+https://portal.chatpmpro.com
+
+Next.js • React • Node.js • MUI • Power BI • D3.js
+
+Features: - Microsoft Bot Framework - Task modules - Power BI dashboards
+
+------------------------------------------------------------------------
+
+# 🏆 Key Achievements
+
+-   🚀 5+ enterprise applications shipped as sole owner
+-   ⚡ 30--40% faster development cycles using AI tooling
+-   🧠 10+ AI workflows automated with n8n
+-   👥 Managed teams of up to 4 developers
+-   📦 Delivered 10+ client projects
+-   📈 Built systems serving 1000+ users
+
+------------------------------------------------------------------------
+
+# 🎓 Education
+
+Bachelor of Computer Applications\
+Vikram University, Indore\
+2019 -- 2022
+
+------------------------------------------------------------------------
+
+```{=html}
+<p align="center">
+```
+⭐ Building intelligent systems powered by AI, scalable architecture,
+and modern web technologies.
+```{=html}
+</p>
+```
